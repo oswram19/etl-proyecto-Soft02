@@ -1,0 +1,482 @@
+CODIGO;TITULO
+004;AFGANISTAN                         
+008;ALBANIA                            
+010;ANTARTICA                          
+012;ALGERIA                            
+016;SAMOA AMERICANA                    
+020;ANDORRA                            
+024;ANGOLA                             
+028;ISLAS ANTIGUA Y BARBADOS           
+031;AZERBAIJAN                         
+032;ARGENTINA                          
+036;AUSTRALIA                          
+040;AUSTRIA                            
+044;BAHAMAS                            
+048;BAHREIN                            
+050;BANGLADESH                         
+051;ARMENIA                            
+052;BARBADOS                           
+056;BELGICA                            
+060;BERMUDAS                           
+064;BHUTAN                             
+068;BOLIVIA                            
+070;BOSNIA-HERZEGOBINA                 
+072;BOTSAWA                            
+074;ISLAS BOUVET                       
+076;BRASIL                             
+084;BELICE                             
+086;TERRIT.BRITANICO OCEANO INDIGO     
+090;ISLAS SALOMON                      
+092;ISLAS VIRGENES(BRITANICAS)         
+100;BULGARIA                           
+104;MYANMAR(BIRMANIA)                  
+108;BURUNDI                            
+112;BIELORRUSIA                        
+116;CAMBOYA                            
+120;CAMERUN                            
+124;CANADA                             
+129;No utilizar (CUBA)                 
+132;CABO VERDE                         
+136;ISLAS CAYMAN                       
+140;REP.CENTROAFRICANA                 
+144;SRI LANKA                          
+148;CHAD                               
+152;CHILE                              
+156;CHINA                              
+158;PROVINCIA CHINA DE TAIWAN          
+162;ISLAS NAVIDAD(CHRISTMAS)           
+166;ISLAS COCOS(KEELING)               
+170;COLOMBIA                           
+175;MAYOTTE                            
+178;CONGO                              
+180;ZAIRE                              
+184;ISLAS COOK                         
+188;COSTA RICA                         
+191;CROACIA                            
+192;CUBA                               
+196;CHYPRE                             
+203;CHECA, REPUBLICA                   
+204;BENIN                              
+208;DINAMARCA                          
+212;DOMINICA                           
+214;REPUBLICA DOMINICANA               
+218;ECUADOR                            
+222;EL SALVADOR                        
+226;GUINEA ECUATORIAL                  
+231;ETHIOPIA                           
+232;ERITREA                            
+233;ESTONIA                            
+234;ISLAS FAROS                        
+238;ISLAS MALVINAS(FALKLAND)           
+239;ISLAS SANDWICH Y SUR D/GEORGIA     
+242;FIJI                               
+246;FINLANDIA                          
+249;FRANCIA METROPOLITANA              
+250;FRANCIA                            
+254;GUYANA FRANCESA                    
+258;POLINESIA FRANCESA                 
+260;TERRITORIOS SURENOS FRANCESES      
+262;DJIBOUTI                           
+266;GABON                              
+268;GEORGIA                            
+270;GAMBIA                             
+276;ALEMANIA                           
+288;GHANA                              
+292;GIBRALTAR                          
+296;KIRIBATI                           
+300;GRECIA                             
+304;GROENLANDIA                        
+308;GRANADA                            
+312;GUADALUPE                          
+316;GUAM                               
+320;GUATEMALA                          
+324;GUINEA                             
+328;GUYANA                             
+332;HAITI                              
+334;ISLA HEARD E ISLAS MCDONALD        
+336;CIUDAD DEL VATICANO (STA CEDE)     
+340;HONDURAS                           
+344;HONG KONG                          
+348;HUNGRIA                            
+352;ISLANDIA                           
+356;INDIA                              
+360;INDONESIA                          
+364;IRAN(REP.ISLAMICA)                 
+368;IRAK                               
+372;IRLANDA                            
+376;ISRAEL                             
+380;ITALIA                             
+384;"COTE D""IVOIRE                      "
+388;JAMAICA                            
+392;JAPON                              
+398;KAZAKHTAN                          
+400;JORDANIA                           
+404;KENYA                              
+408;COREA, REPUBLICA POPULAR DEM.      
+410;COREA, REPUBLICA DE                
+414;KUWAIT                             
+417;KIRGYSTAN                          
+418;LAOS,REP.DEM.POPULAR               
+422;LIBANO                             
+426;LESOTHO                            
+428;LETONIA                            
+430;LIBERIA                            
+434;JAMAHIRIYA ARABE LIBIA POP/SOC     
+438;LIECHTENSTEIN                      
+440;LITUANIA                           
+442;LUXEMBURGO                         
+446;MACAO                              
+450;MADAGASCAR                         
+454;MALAWI                             
+458;MALASIA                            
+462;MALDIVIA                           
+466;MALI                               
+470;MALTA                              
+474;MARTINICA                          
+478;MAURITANIA                         
+480;MAURICIO                           
+484;MEXICO                             
+485;MEXICO SIN TLC                     
+492;MONACO                             
+496;MONGOLIA                           
+498;MOLDOVIA, REP.                     
+500;MONTSERRAT                         
+504;MARRUECOS                          
+508;MOZAMBIQUE                         
+512;OMAN                               
+516;NAMIBIA                            
+520;NAURU                              
+524;NEPAL                              
+528;HOLANDA(PAISES BAJOS)              
+530;ANTILLAS HOLANDESAS                
+533;ARUBA                              
+540;NUEVA CALEDONIA                    
+548;VANUATU                            
+554;NUEVA ZELANDIA                     
+558;NICARAGUA                          
+562;NIGER                              
+566;NIGERIA                            
+570;NIUE                               
+574;ISLA NORFOLK                       
+578;NORUEGA                            
+580;ISLAS MARIANAS DEL NORTE           
+581;ISLAS MENORES ESTADOUNIDENSES      
+583;MICRONESIA                         
+584;ISLAS MARSHALL                     
+585;PALAU                              
+586;PAKISTAN                           
+591;PANAMA                             
+598;NUEVA GUINEA PAPUA                 
+600;PARAGUAY                           
+601;No utilizar(PAQUISTAN)             
+604;PERU                               
+608;FILIPINAS                          
+612;PITCAIRN                           
+616;POLONIA                            
+620;PORTUGAL                           
+624;GUINEA BISSAU                      
+626;TIMOR ORIENTAL                     
+630;PUERTO RICO                        
+634;QATAR                              
+638;REUNION                            
+642;RUMANIA                            
+643;RUSIA, FEDERACION                  
+646;RUANDA                             
+654;SANTA ELENA                        
+659;SAN KITTS Y NEWS                   
+660;ANGUILA                            
+662;SANTA LUCIA                        
+666;SAN PEDRO MIGUELON                 
+670;SAN VICENTE Y LAS GRANADINAS       
+674;SAN MARINO                         
+682;ARABIA SAUDITA                     
+686;SENEGAL                            
+690;SEYCHELLES                         
+694;SIERRA LEONA                       
+702;SINGAPUR                           
+703;ESLOVAQUIA                         
+704;VIETNAM                            
+705;SLOVENIA                           
+706;SOMALIA                            
+710;SUDAFRICA                          
+724;ESPANA                             
+732;SAHARA OCCIDENTAL                  
+736;SUDAN                              
+740;SURINAME                           
+752;SUECIA                             
+756;SUIZA                              
+760;SIRIA(REP.ARABE UNIDA)             
+762;TAJIKISTAN                         
+764;TAILANDIA                          
+768;TOGO                               
+776;TONGA                              
+780;TRINIDAD Y TOBAGO                  
+784;EMIRATOS ARABES UNIDOS             
+792;TURQUIA                            
+795;TURKMENISTAN                       
+796;Turks and Caicos Islands           
+800;UGANDA                             
+804;RSS DE UCRANIA                     
+807;MACEDONIA,REP. ANTE. YUGOSLAV      
+810;UNION DE REP. SOCIALISTAS SOVI     
+818;EGIPTO                             
+826;REINO UNIDO                        
+834;REPUBLICA UNIDA DE TANZANIA        
+840;ESTADOS UNIDOS                     
+841;HOLANDA                            
+850;ISLAS VIRGENES (USA)               
+858;URUGUAY                            
+860;UZBEKISTAN                         
+862;VENEZUELA                          
+882;SAMOA                              
+887;YEMEN                              
+890;YUGOSLAVIA                         
+891;YUGOSLAVIA                         
+894;ZAMBIA                             
+AD ;Andorra                            
+AE ;Emiratos Arabes Unidos             
+AF ;Afganistan                         
+AG ;Antigua and Barbuda                
+AI ;Anguilla                           
+AL ;Albania                            
+AM ;Armenia                            
+AN ;Netherlands Antilles               
+AO ;Angola                             
+AQ ;Antartica                          
+AR ;Argentina                          
+AS ;American Samoa                     
+AT ;Austria                            
+AU ;Australia                          
+AW ;Aruba                              
+AZ ;Azerbaijan                         
+BA ;Bosnia and Herzegovina             
+BB ;Barbados                           
+BD ;Bangladesh                         
+BE ;Belgium                            
+BF ;Burkina Faso                       
+BG ;Bulgaria                           
+BH ;Bahrein                            
+BI ;Burundi                            
+BJ ;Benin                              
+BM ;Bermuda                            
+BN ;Brunei Darussalam                  
+BO ;Bolivia                            
+BR ;Brazil                             
+BS ;Bahamas                            
+BT ;Bhutan                             
+BV ;Bouvet Island                      
+BW ;Botswana                           
+BY ;Bielorrusia                        
+BZ ;Belize                             
+CA ;Canada                             
+CC ;Cocos (Keeling) Islands            
+CF ;Central African Republic           
+CG ;Congo                              
+CH ;Switzerland                        
+CI ;Cote d'Ivoire                      
+CK ;Cook Islands                       
+CL ;Chile                              
+CM ;Cameroon                           
+CN ;China                              
+CO ;Colombia                           
+CR ;Costa Rica                         
+CU ;Cuba                               
+CV ;Cape Verde                         
+CX ;Christmas Island[Australia]        
+CY ;Cyprus                             
+CZ ;Czech Republic                     
+DE ;Germany                            
+DJ ;Djibouti                           
+DK ;Denmark                            
+DM ;Dominica                           
+DO ;Dominican Republic                 
+DW ;CURAZAO                            
+DZ ;Algeria                            
+EC ;Ecuador                            
+EE ;Estonia                            
+EG ;Egypt                              
+EH ;Western Sahara                     
+ER ;Eritrea                            
+ES ;Spain                              
+ET ;Ethiopia                           
+FI ;Finland                            
+FJ ;Fiji                               
+FK ;Falkland Islands (Malvinas)        
+FM ;Micronesia, Federated States of    
+FO ;Faeroes Islands                    
+FR ;France                             
+GA ;Gabon                              
+GB ;United Kingdom                     
+GD ;Grenada                            
+GE ;Georgia                            
+GF ;French Guiana                      
+GH ;Ghana                              
+GI ;Gibraltar                          
+GL ;Greenland                          
+GM ;Gambia                             
+GN ;Guinea                             
+GP ;Guadeloupe                         
+GQ ;Equatorial Guinea                  
+GR ;Greece                             
+GT ;Guatemala                          
+GU ;Guam                               
+GW ;Guinea-Bissau                      
+GY ;Guyana                             
+HK ;Hong Kong                          
+HN ;Honduras                           
+HR ;Croatia                            
+HT ;Haiti                              
+HU ;Hungary                            
+ID ;Indonesia                          
+IE ;Ireland                            
+IL ;Israel                             
+IM ;Isle of Man                        
+IN ;India                              
+IO ;British Indian Ocean Territory     
+IQ ;Iraq                               
+IR ;Iran, Islamic Republic of          
+IS ;Iceland                            
+IT ;Italy                              
+JE ;Jersey                             
+JM ;Jamaica                            
+JO ;Jordan                             
+JP ;Japan                              
+JT ;Johnston Island                    
+KE ;Kenya                              
+KG ;Kyrgyzstan                         
+KH ;Cambodia                           
+KI ;Kiribati                           
+KM ;Comoros                            
+KN ;Saint Kitts and Nevis              
+KP ;Korea, Democratic People's Rep. of 
+KR ;Korea, Republic of                 
+KW ;Kuwait                             
+KY ;Cayman Islands                     
+KZ ;Kazakstan                          
+LA ;Lao People's Democratic Republic   
+LB ;Lebanon                            
+LC ;Saint Lucia                        
+LI ;Liechtenstein                      
+LK ;Sri Lanka                          
+LR ;Liberia                            
+LS ;Lesotho                            
+LT ;Lithuania                          
+LU ;Luxembourg                         
+LV ;Latvia                             
+LY ;Libyan Arab Jamahiriya             
+MA ;Morocco                            
+MC ;Monaco                             
+MD ;Republic of Moldova                
+ME ;Montenegro                         
+MG ;Madagascar                         
+MH ;Marshall Islands                   
+MI ;Midway Islands                     
+MK ;The former Yugoslav Rep. Macedonia 
+ML ;Mali                               
+MM ;Myanmar                            
+MN ;Mongolia                           
+MO ;Macau                              
+MP ;Northern Mariana Islands           
+MQ ;Martinique                         
+MR ;Mauritania                         
+MS ;Montserrat                         
+MT ;Malta                              
+MU ;Mauritius                          
+MV ;Maldives                           
+MW ;Malawi                             
+MX ;Mexico                             
+MY ;Malaysia                           
+MZ ;Mozambique                         
+NA ;Namibia                            
+NC ;New Caledonia                      
+NE ;Niger                              
+NF ;Norfolk Island                     
+NG ;Nigeria                            
+NI ;Nicaragua                          
+NL ;Netherlands                        
+NO ;Norway                             
+NP ;Nepal                              
+NR ;Nauru                              
+NU ;Niue                               
+NZ ;New Zealand                        
+OM ;Oman                               
+PA ;Panama                             
+PE ;Peru                               
+PF ;French Polynesia                   
+PG ;Papua New Guinea                   
+PH ;Philippines                        
+PK ;Pakistan                           
+PL ;Poland                             
+PM ;Saint Pierre and Miquelon          
+PN ;Pitcairn                           
+PR ;Puerto Rico                        
+PT ;Portugal                           
+PW ;Palau                              
+PY ;Paraguay                           
+QA ;Qatar                              
+RE ;Reunion                            
+RO ;Romania                            
+RS ;Serbia                             
+RU ;Russian Federation                 
+RW ;Rwanda                             
+SA ;Saudi Arabia                       
+SB ;Solomon Islands                    
+SC ;Seychelles                         
+SCH;CHILE SIN TLC                      
+SD ;Sudan                              
+SE ;Sweden                             
+SG ;Singapore                          
+SH ;Saint Helena                       
+SI ;Slovenia                           
+SJ ;Svalbard and Jan Mayen Islands     
+SK ;Slovakia                           
+SL ;Sierra Leone                       
+SM ;San Marino                         
+SN ;Senegal                            
+SO ;Somalia                            
+SPA;Panama sin TLC                     
+SR ;Suriname                           
+SRD;Republica Dominicana sin TLC       
+ST ;Sao Tome and Principe              
+SV ;El Salvador                        
+SY ;Syrian Arab Republic               
+SZ ;Swaziland                          
+TC ;Turks and Caicos Islands           
+TD ;Chad                               
+TE ;Territorio Extraduanal             
+TEA;Territorio Extra Aduana            
+TF ;French Southern Territories        
+TG ;Togo                               
+TH ;Thailand                           
+TJ ;Tajikistan                         
+TK ;Tokelau                            
+TM ;Turkmenistan                       
+TN ;Tunisia                            
+TO ;Tonga                              
+TP ;East Timor                         
+TR ;Turkey                             
+TT ;Trinidad and Tobago                
+TV ;Tuvalu                             
+TW ;Taiwan, Province of China          
+TZ ;United Republic of Tanzania        
+UA ;Ukraine                            
+UG ;Uganda                             
+US ;United States                      
+UY ;Uruguay                            
+UZ ;Uzbekistan                         
+VA ;Holy See (Vatican)                 
+VC ;Saint Vincent and the Grenadines   
+VE ;Venezuela                          
+VG ;British Virgin Islands             
+VI ;United States Virgin Islands       
+VN ;Viet Nam                           
+VU ;Vanuatu                            
+WF ;Wallis and Futuna Islands          
+WK ;Wake Island                        
+WS ;Samoa                              
+XX ;No Asignado
+YE ;Yemen                              
+YU ;Serbia and Montenegro              
+ZA ;Republic of South Africa           
+ZM ;Zambia                             
+ZW ;Zimbabwe                           
